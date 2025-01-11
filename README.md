@@ -1,4 +1,4 @@
-#README file for CS-370 "Current Emerging Trends in CS - 2024"
+README file for CS-370 "Current Emerging Trends in CS - 2024"
 
 For this project, I implemented Deep Q-Learning into an half provided code for an AI "Pirate Intelligent Agent" to solve a maze and get to the treasure.
 
